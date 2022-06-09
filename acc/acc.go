@@ -25,8 +25,7 @@ func FirstOrLastName(title string) (bool, string) {
 func DateOfBirth() (bool, time.Time) {
 	//takes user input for year, month, day and validates them,
 	//returns (TRUE, YYYY-MM-DD in time.Time format) if date is valid
-	//returns (FALSE, time.Time{} zero value = 0001-01-01)
-	//											 if date is not valid
+	//returns (FALSE, time.Time{} zero value = 0001-01-01) if date is not valid
 
 	fmt.Println("\tDate of Birth")
 
