@@ -32,7 +32,11 @@
     Guide for connecting Go to Database can be found here:
     https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/
 
-1.3 Run the "main.go" file in terminal.
+1.3 Create go.mod file. Run the command: go mod init bank
+
+1.4 Install github.com/lib/pq package to your computer. Run command: go get -u github.com/lib/pq
+
+1.5 Run the "main.go" file in terminal.
 
 ## 2.0 Specific details
 2.1 Admin with id = 1 is a root admin. Root Admin can Open and Delete
