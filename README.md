@@ -4,11 +4,11 @@
 # This is a project imitating the banking system. It provides 2 types of accounts: admin and user.
   
   Admin has features:
-    -1. Open new admin
-    -2. Delete admin
-    -3. Delete user
-    -4. View unchecked user queries
-    -5. Check user query
+    1. Open new admin
+    2. Delete admin
+    3. Delete user
+    4. View unchecked user queries
+    5. Check user query
   
   User has features:
     1. View account information
