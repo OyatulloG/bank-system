@@ -1,4 +1,4 @@
-# Bank System
+# Bank Management System
 # Go, PostgreSQL
 
 # This is a project imitating the banking system. It provides 2 types of accounts: admin and user.
